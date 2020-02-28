@@ -76,7 +76,7 @@ Section 9:
 	4> Run the batch normalized model with best hyper parameter found in section 8.
 
 
-Section 9:
+Section 10:
 	Batch Normalization and Dropout
 	1> Create Batch Normalization with Dropout model.
 	2> Train the model and compare with multi layed model, batch normalized model and Batch Normalization with Dropout model.
